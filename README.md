@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Fernando Martinez</h1>
-<h3 align="center">Un desarrollador Frontend, Backend, Mobile, apasionado por la programación y la solución de problemas informáticos</h3>
+<h3 align="center">Desarrollador Frontend, Backend, Mobile, apasionado por la programación y la solución de problemas informáticos</h3>
 
 - 🔭 Actualmente trabajo en Universidad Nacional de Ingenieria, Managua,Nicaragua **SIGFA**
 
